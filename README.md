@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I'm Nika (or Nicole)! I am currently a student at the **University of Toronto**. 
-- :astronaut: I'm currently working on front end development
-- :brain: I'm studying React.js and data science with Python
 - :smile: Pronouns: she/her
+- :woman_technologist: I'm currently interning as a UI/UX Intern
+- :brain: I'm learning full-stack development in my free time
+- :seedling: I'm looking to work on a project that focuses on ecology and tech
 <!--
 **NicoleMgl/NicoleMgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
