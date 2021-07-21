@@ -2,7 +2,7 @@
 
 I'm Nika (or Nicole)! I am currently a student at the **University of Toronto**. 
 - :smile: Pronouns: she/her
-- :woman_technologist: I'm currently interning as a UI/UX Intern
+- :woman_technologist: I'm currently interning as a UI/UX Developer
 - :brain: I'm learning full-stack development in my free time
 - :seedling: I'm looking to work on a project that focuses on ecology and tech
 <!--
